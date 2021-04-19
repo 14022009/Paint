@@ -1,0 +1,37 @@
+body{
+    font-family: Zen Dots;
+    background: #40E0D0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #FF0080, #FF8C00, #40E0D0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #FF0080, #FF8C00, #40E0D0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+h1{
+    font-size: 40px;
+    text-align: center;
+    color:whitesmoke;
+}
+canvas{
+    background-color: white;
+    border: black solid 10px;
+}
+#sp1{
+    
+    color: whitesmoke;
+    font-size: 20px;
+    
+}
+input{
+    height: 20px;
+    width: 230px;
+    font-family: Zen Dots;
+    font-size: 10px;
+    padding: 10px;
+}
+.bt{
+    background-color:yellowgreen;
+    height: 50px;
+    width: 300px;
+    margin-top: 10px;
+    font-size: 30px;
+    font-weight: 900;
+}
